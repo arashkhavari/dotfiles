@@ -1,8 +1,8 @@
-# Fardjad's dotfiles
+# Arash's dotfiles
 
 ## Synopsis
 
-Inspired by [carlos' dotfiles][1], this repository contains my no-frills
+Inspired by [Fardjad' dotfiles][1], this repository contains my no-frills
 dotfiles for macOS and Linux.
 
 It comes with an automated installer script and leverages homebrew to install
@@ -37,7 +37,7 @@ The following software packages are required to run the setup script.
 In order to install the dotfiles run the following command in a bash shell:
 
 ```bash
-git clone https://github.com/fardjad/dotfiles.git ~/.dotfiles && ~/.dotfiles/script/setup
+git clone https://github.com/arashkhavari/dotfiles.git ~/.dotfiles && ~/.dotfiles/script/setup
 ```
 
 ## OS Specific Notes
@@ -62,7 +62,7 @@ git clone https://github.com/fardjad/dotfiles.git ~/.dotfiles && ~/.dotfiles/scr
 
 [Creative Commons Attribution-NonCommercial 4.0 International License.][10]
 
-[1]: https://github.com/caarlos0/dotfiles
+[1]: https://github.com/fardjad/dotfiles
 [2]: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
 [3]: https://en.wikipedia.org/wiki/MacOS_High_Sierra
 [4]: https://manjaro.org
