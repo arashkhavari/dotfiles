@@ -22,7 +22,7 @@ Config files are crafted for my own use and focus mostly on Web Development.
 ## Installation
 
 The repository is tested on the latest version of [macOS HighSierra][3]
-and [Manjaro][4].
+and [Manjaro][4] and [Ubuntu][12].
 
 The following software packages are required to run the setup script.
 
@@ -73,3 +73,4 @@ git clone https://github.com/arashkhavari/dotfiles.git ~/.dotfiles && ~/.dotfile
 [9]: https://www.sudo.ws
 [10]: http://creativecommons.org/licenses/by-nc/4.0/
 [11]: https://gist.github.com/114ebf50a0dd031418bb63b3b134db51
+[12]: https://ubuntu.com
