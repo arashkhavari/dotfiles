@@ -22,7 +22,7 @@ if ! check_command "sdkman"; then
     source "$SDKMAN_DIR/bin/sdkman-init.sh"
 fi
 
-JAVA_VERSION="8.0.222.hs-adpt"
+JAVA_VERSION="8.0.242.hs-adpt"
 sdk install java $JAVA_VERSION
 sdk default java $JAVA_VERSION
 
